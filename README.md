@@ -2,7 +2,7 @@
 
 This repository contains the code required to replicate the Monte Carlo results presented in the paper:
 
-> "Stochastic Valuation with Regime Dynamics"
+> "Avaliação de Empresas Dinâmica Estocástica por Clusterização de Fluxos de Caixa e Estrutura de Capital no Setor de Energia Elétrica"
 
 ## 📦 Contents
 # Monte Carlo Valuation Experiment – Replication Package
