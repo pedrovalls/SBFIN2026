@@ -93,11 +93,4 @@ Generated files include:
 
 ---
 
-## 📚 Citation and DOI
-
-A frozen version of this repository is archived on Zenodo.
-
-DOI: **[INSERT DOI HERE]**
-
-To cite:
 
